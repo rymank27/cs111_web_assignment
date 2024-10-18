@@ -1,0 +1,21 @@
+h1 {
+ font-family: "Arial", Arial, sans-serif;
+ color: #4f7a28;
+}
+
+/*Light green colors, dark green background, and large font size*/
+p {
+ color:#38571a;
+ font-size:20pt;
+}
+body {
+ background-color: #fff2d5;
+}
+ol {
+ list-style: upper-roman;
+}
+
+body {
+ background-color: #cce8b5;
+font-size:12pt;
+}
